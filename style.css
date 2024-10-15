@@ -8,7 +8,7 @@ body{
     background: black;
     font-family:'Inter',sans-serif ;
     color:hsl(0, 0%, 100%);
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .social{
   background:hsl(0, 0%, 20%);
